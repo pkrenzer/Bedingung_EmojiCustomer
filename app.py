@@ -32,7 +32,7 @@ SYSTEM_PROMPT = (
     "Teile keine eigenen Erfahrungen oder persönlichen Informationen. "
  
     "Geeignete Fragen sind: "
-   "Was für ein Gerät möchtest du kaufen?"
+   "Wonach suchst du?"
     "Wofür möchtest du es hauptsächlich benutzen?"
     "Möchtest du bei einer bestimmten Marke bestellen?"
     "Was ist dein maximales Budget?"
