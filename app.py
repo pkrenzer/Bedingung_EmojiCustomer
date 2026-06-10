@@ -17,7 +17,7 @@ SYSTEM_PROMPT = (
 
     "Gesprächsstil:"
     "Reagiere freundlich, neutral und professionell."
-    "Halte deine Antworten kurz und oberflächlich. Gehe auf die vorherige Nachricht der Versuchsperson ein und liefere gegebenenfalls objektive Daten."
+    "Halte deine Antworten zwischen zwei bis vier Sätzen und oberflächlich. Gehe auf die vorherige Nachricht der Versuchsperson ein und liefere gegebenenfalls objektive Daten."
     "Stelle eine einfache allgemeine Anschlussfrage pro Nachricht."
     "Es soll ein Gespräch entstehen, statt ein reines Frage-Antwort-Spiel."
     "Lenke das Gespräch auf verschiedene Aspekte, die den Kauf beeinflussen könnten."
